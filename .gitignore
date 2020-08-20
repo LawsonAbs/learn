@@ -1,2 +1,3 @@
-te/
-*.abc
+python/.ipynb_checkpoints/
+pytorch/.ipynb_checkpoints/
+nlp/.ipynb_checkpoints/
